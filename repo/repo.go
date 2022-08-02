@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	clet "internal/cmdlet"
+	clet "github.com/lincolmlabs/internal/cmdlet"
 
 	"github.com/google/uuid"
 )
