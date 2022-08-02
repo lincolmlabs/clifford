@@ -1,7 +1,7 @@
 package main
 
 import (
-	g "lojas.io/repo"
+	g "github.com/lincolmlabs/repo"
 
 	"github.com/alecthomas/kong"
 )

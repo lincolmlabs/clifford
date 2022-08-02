@@ -1,4 +1,4 @@
-module lojas.io/clifford
+module github.com/lincolmlabs/clifford
 
 go 1.18
 

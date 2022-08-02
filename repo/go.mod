@@ -1,4 +1,4 @@
-module lojas.io/repo
+module github.com/lincolmlabs/repo
 
 go 1.18
 
